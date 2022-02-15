@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/admin/AndroidStudioProjects/cagong/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/cagong/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/admin/StudioProjects/Cagong/app/src/main/res/drawable/rounded_edittext.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/admin/StudioProjects/Cagong/app/src/main/res/drawable/rounded_tag.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/admin/StudioProjects/Cagong/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/admin/StudioProjects/Cagong/app/src/main/res/layout/tag_item.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/StudioProjects/Cagong/app/src/main/res/layout/tag_list.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
